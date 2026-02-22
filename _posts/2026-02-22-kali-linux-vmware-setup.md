@@ -1,6 +1,6 @@
 ---
 title: "Making a Kali Linux VM with VMware on Windows"
-date: 2026-02-19 21:00:00 -0500
+date: 2026-02-22 21:00:00 -0500
 categories: [Virtualization, Kali Linux]
 tags: [kali, vmware, cybersecurity, virtualization, lab-setup]
 ---
