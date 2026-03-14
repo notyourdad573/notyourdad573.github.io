@@ -26,7 +26,7 @@ These tools allow your computer to communicate with the phone.
 
 ---
 
-## Step 1 — Downgrade the phone with the MSM tool
+## Step 1 Downgrade the phone with the MSM tool
 
 This step requires a Windows machine.
 
@@ -50,7 +50,7 @@ When the process finishes the phone will be restored to **Android 9**.
 
 ---
 
-## Step 2 — Update the phone to OxygenOS 10
+## Step 2 Update the phone to OxygenOS 10
 
 Once the phone boots again update it to **OxygenOS 10**.
 
@@ -58,7 +58,7 @@ NetHunter kernels for the OnePlus 7 series are built around the Android 10 / Oxy
 
 ---
 
-## Step 3 — Unlock the bootloader
+## Step 3 Unlock the bootloader
 
 Enable **Developer Options** and turn on:
 
@@ -81,7 +81,7 @@ This will wipe the phone.
 
 ---
 
-## Step 4 — Download the stock boot image
+## Step 4 Download the stock boot image
 
 Download the stock boot image here:
 
@@ -95,7 +95,7 @@ boot.img
 
 ---
 
-## Step 5 — Root the phone with Magisk
+## Step 5 Root the phone with Magisk
 
 Download Magisk:
 
@@ -125,7 +125,7 @@ The phone should now be rooted.
 
 ---
 
-## Step 6 — Install the NetHunter Store
+## Step 6 Install the NetHunter Store
 
 Download the NetHunter Store:
 
@@ -138,7 +138,7 @@ From the store install:
 
 ---
 
-## Step 7 — Install the Kali chroot
+## Step 7 Install the Kali chroot
 
 Open the **NetHunter App**.
 
@@ -156,7 +156,7 @@ If this runs successfully the Kali environment is working correctly.
 
 ---
 
-## Step 8 — Download the NetHunter kernel
+## Step 8 Download the NetHunter kernel
 
 Download the kernel here:
 
@@ -170,7 +170,7 @@ kernel-nethunter-20230215_094959-oneplus7-oos-ten.zip
 
 ---
 
-## Step 9 — Flash the NetHunter kernel with TWRP
+## Step 9 Flash the NetHunter kernel with TWRP
 
 Reboot the phone to the bootloader:
 
@@ -200,7 +200,7 @@ After the flash finishes reboot the phone.
 
 ---
 
-## Step 10 — Verify the NetHunter kernel
+## Step 10 Verify the NetHunter kernel
 
 Run:
 
