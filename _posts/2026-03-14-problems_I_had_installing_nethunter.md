@@ -1,6 +1,6 @@
 ---
 title: Problems I Hit Installing Kali NetHunter on the OnePlus 7 Pro
-date: 2026-03-13
+date: 2026-03-14
 categories: [android, kali, nethunter]
 tags: [kali, nethunter, troubleshooting, oneplus7pro]
 ---
