@@ -32,11 +32,11 @@ This step requires a Windows machine.
 
 Download the MSM downgrade tool:
 
-https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_7_Pro/T-Mobile_GM31CB/
+[MSM downgrade tool](https://onepluscommunityserver.com/list/Unbrick_Tools/OnePlus_7_Pro/T-Mobile_GM31CB/)
 
 Install the Qualcomm USB drivers:
 
-https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP/view
+[Qualcomm drivers](https://drive.google.com/file/d/1zKPFtcc2X_Nf70mcvn9TBu60bHl6Q3cP/view)
 
 Install the drivers first.
 
@@ -85,7 +85,7 @@ This will wipe the phone.
 
 Download the stock boot image here:
 
-https://androidfilehost.com/?fid=1395089523397968592
+[Stock boot img](https://androidfilehost.com/?fid=1395089523397968592)
 
 The file needed is:
 
@@ -99,7 +99,7 @@ boot.img
 
 Download Magisk:
 
-https://github.com/topjohnwu/magisk/releases
+[Magisk apk](https://github.com/topjohnwu/magisk/releases)
 
 Install Magisk on the phone.
 
@@ -129,7 +129,7 @@ The phone should now be rooted.
 
 Download the NetHunter Store:
 
-https://store.nethunter.com/
+[Nethunter Store](https://store.nethunter.com/)
 
 From the store install:
 
@@ -160,7 +160,7 @@ If this runs successfully the Kali environment is working correctly.
 
 Download the kernel here:
 
-https://androidfilehost.com/?fid=4279422670115718693
+[Nethunter Kernel](https://androidfilehost.com/?fid=4279422670115718693)
 
 The kernel used:
 
